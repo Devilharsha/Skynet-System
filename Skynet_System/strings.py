@@ -1,5 +1,5 @@
 on_string = """
-╒═══「 Skynet X System • Server Core 」
+╒═══「 Senku X System • Server Core 」
 ➖➖➖➖➖➖➖➖➖
 ➛ NAME: {name}
 ➛ RANK: {Enforcer}
